@@ -1,0 +1,12 @@
+<application>
+  <component name="libraryTable">
+    <library name="bin">
+      <CLASSES />
+      <JAVADOC />
+      <NATIVE>
+        <root url="file://C:/Program Files/Java/jdk1.8.0_111/bin" />
+      </NATIVE>
+      <SOURCES />
+    </library>
+  </component>
+</application>
